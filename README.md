@@ -19,14 +19,14 @@ Most of the projects have the following dependencies
 The above dependecies can be installed by running the following command after cloning the repo
 
 ```sh
-pip install -r basic_requirements.txt
+sudo -H pip3 install -r requirements.txt
 ```
 
 For a comprehensive list of dependencies, run the following command
 
 
 ```sh
-pip install -r requirements.txt
+sudo -H pip3 install -r all_requirements.txt
 ```
 
  
