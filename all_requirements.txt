@@ -123,7 +123,7 @@ watson-developer-cloud==0.26.1
 Wave==0.0.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 widgetsnbextension==2.0.0
 xdiagnose==3.8.4.1
 xkit==0.0.0
